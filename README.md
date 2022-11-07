@@ -30,7 +30,7 @@
   </p>
   
   <h3> Réseau social </h3>
-  <p> <img alt="Mastodon"src="https://img.shields.io/badge/Mastodon-BDE0FE?style=for-the-badge&logo=Mastodon&logoColor=#6260F9" />
+  <p> ![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)
 <!---
 quentalt/quentalt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
