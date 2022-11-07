@@ -5,8 +5,10 @@
 - 📫 How to reach me ...
 
 <h3> les OS </h3>
+<p>
 <img alt="os" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/>
 <img alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+</p>
 <h3>Les langages que j'utilise</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -26,6 +28,9 @@
   <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   <img alt="Dart"src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   </p>
+  
+  <h3> Réseau social </h3>
+  <p>https://img.shields.io/badge/Mastodon-BDE0FE?style=for-the-badge&logo=Mastodon&logoColor=#6260F9 </p>
 <!---
 quentalt/quentalt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
