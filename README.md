@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Quentin Altieri
 - 👀 I’m interested in ML, recents frameworks like Ultra,Fresh...
-- 🌱 I’m currently learning Spring and Next.js
+- 🌱 I’m currently learning Spring and will have experienced on Rust
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
@@ -9,7 +9,7 @@
 <img alt="os" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/>
 <img alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
-<h3>Les langages que j'utilise</h3>
+<h3> The Languages I use </h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
    <img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D"/>
@@ -31,7 +31,7 @@
   <img alt="Dart"src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   </p>
   
-  <h3> Réseau social (cliquez sur l'image pour me suivre ;)) </h3>
+  <h3> Social Nextwork (cliquez sur l'image pour me suivre ;)) </h3>
   <p> <img alt="Mastodon" src="https://img.shields.io/mastodon/follow/107405280951338475?domain=https%3A%2F%2Fmastodon.social&label=Mastodon&style=social" /></p>
 <!---
 quentalt/quentalt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
