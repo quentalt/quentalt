@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<h3> les OS </h3>
+<h3>  OS </h3>
 <p>
 <img alt="os" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/>
 <img alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
@@ -31,7 +31,7 @@
   <img alt="Dart"src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   </p>
   
-  <h3> Social Nextwork (cliquez sur l'image pour me suivre ;)) </h3>
+  <h3> Social Network </h3>
   <p> <img alt="Mastodon" src="https://img.shields.io/mastodon/follow/107405280951338475?domain=https%3A%2F%2Fmastodon.social&label=Mastodon&style=social" /></p>
 <!---
 quentalt/quentalt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
